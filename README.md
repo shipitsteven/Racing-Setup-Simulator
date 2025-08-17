@@ -182,3 +182,5 @@ See [LICENSE.md](LICENSE.md) for full details.
 ---
 
 **Ready to optimize your lap times?** Download and start configuring your perfect racing setup today!
+
+*Built for racing enthusiasts by racing enthusiasts.*
