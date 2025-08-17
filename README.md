@@ -27,6 +27,8 @@ A native desktop application for racing enthusiasts to optimize their car setups
 
 ## Screenshots
 
+![Racing Setup Simulator Demo](racing-setup-simulator.png)
+
 *Track Selection*
 - Visual track browser with detailed circuit information
 - Weather and track condition settings
